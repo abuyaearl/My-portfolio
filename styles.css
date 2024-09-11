@@ -40,11 +40,20 @@ h2{
 }
 
 .skills ul{
-    list-style: none;
+    list-style: lower-roman;
+    padding: 0;
+}
+
+.interests ul{
+    list-style: lower-roman;
     padding: 0;
 }
 
 .skills li{
+    margin: 10px 0;
+}
+
+.interests li{
     margin: 10px 0;
 }
 
